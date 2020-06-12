@@ -1,4 +1,4 @@
-# 🦉 Documentação l10n-brazil 🦉
+# Documentação l10n-brazil
 
 ## Aprenda a Localização Brasileira da OCA
 
