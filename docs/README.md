@@ -8,4 +8,4 @@ Você é novo aqui? Estes links podem ajudar!
 - [OCA](https://odoo-community.org/)
 - [Escodoo](https://escodoo.com)
 
-- [Instalação](learming/instalacao.rst)
+- [Instalação](learning/instalacao.rst)
